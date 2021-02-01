@@ -36,4 +36,3 @@ README.md export-ignore
 style.css.map export-ignore
 .github/ export-ignore
 assets/css/*.map export-ignore
-assets/sass/ export-ignore
